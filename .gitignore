@@ -1,16 +1,15 @@
 *.log
+*/runs
+*/models
 
 # HW1
 
-HW1/runs
-HW1/models
 HW1/ml2022spring-hw1
 HW1/pred.csv
 
 # HW2
 
 HW2/libriphone
-HW2/models
 HW2/prediction.csv
 
 # HW3
